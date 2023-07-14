@@ -413,6 +413,14 @@ h1 {
     color: #ccff00;
 }
 
+.container .row .left{
+    text-align: end;
+  }
+
+  .container .row .left li a{
+    color: #3d5602;
+    padding: 20px 45px;
+  }
 /*------------------------------------------------------
 	Gallery Styles 
 --------------------------------------------------------*/
